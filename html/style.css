@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(246, 180, 159);
+    align-items: center;
+    justify-content: center;
+    border: 5px solid rgb(219, 198, 198);
+    border-radius: 10px;
+    font-style: italic;
+    font-size: 30pxs;
+    text-align: center;
+}
+
+h1 { align-items: center;
+justify-content: center;
+}
+
+#sauvignon {
+    height: 50%;
+    width: 50%;
+}
+h3{
+    text-decoration: underline;
+    list-style-type: square;
+}
